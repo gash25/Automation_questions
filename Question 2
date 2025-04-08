@@ -1,0 +1,6 @@
+You are testing an API that returns a list of users. A GET request to /users returns:
+[
+  {"id": 1, "name": "Alice", "age": 25},
+  {"id": 2, "name": "Bob", "age": 30}
+]
+What tests would you write for this API?
